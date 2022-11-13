@@ -22,10 +22,10 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.owner = ['6283195366404','6283195366404','6283195366404']
-global.premium = ['6283195366404']
-global.packname = 'Zall Mods Wa'
-global.author = 'Zall Mods Wa'
+global.owner = ['6285823265582','6285823265582','6285823265582']
+global.premium = ['6285823265582']
+global.packname = 'Man MD'
+global.author = 'Man MD'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
